@@ -1,0 +1,19 @@
+# Główne EPG
+#epg/glowne.xml
+
+# Dodatkowe źródła lokalne
+#epg/dodatkowe.xml
+#epg/satelitarne.xml.gz
+
+# Źródła zdalne
+#https://example.com/epg.xml
+#https://example.net/epg.xml.gz
+#/media/kodi/epg.xml
+#/media/kodi/epg_sweet.xml
+#/media/kodi/epg/rakuten.xml
+#/media/kodi/epg/telewizjabiznesowa.xml
+
+https://epg.ovh/pltv.gz
+telewizjabiznesowa.xml
+rakuten.xml
+/media/kodi/epg_sweet_org.xml

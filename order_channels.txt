@@ -1,0 +1,232 @@
+# ============================
+# KANAŁY OGÓLNOTEMATYCZNE
+# ============================
+TVP 1
+TVP 2
+Polsat
+TVN
+TV 4
+Tele 5
+TV 6
+TVN 7
+TV Puls
+Puls 2
+Polsat 2
+Super Polsat
+Polsat Rodzina
+BBC First
+TVP Polonia
+TVP 3 Katowice
+TVP 3 Kraków
+Polonia 1
+WP
+METRO
+TTV
+NOWA TV
+ZOOM TV
+TV TRWAM
+TVS
+13TV HD
+Dla Ciebie TV
+Show TV
+Antena
+Canal+ Now
+Toya
+TVT
+TWOJA TV
+# ============================
+# FILMY I SERIALE
+# ============================
+13 Ulica
+AMC
+AXN
+AXN Black
+AXN Spin
+AXN White
+Paramount Channel
+SCI FI
+FX
+FX Comedy
+Canal+ Premium
+Canal+ Film
+Canal+ Seriale
+Canal+ 1
+HBO
+HBO 2
+HBO 3
+Cinemax
+Cinemax 2
+Polsat Film
+Polsat Seriale
+Stopklatka TV
+TVN Fabuła
+Sundance TV
+Warner TV
+Comedy Central
+Polsat Comedy Central Extra
+Kino TV
+Ale Kino+
+Kino Polska
+TVC Super
+TVC
+FILMBOX+ Hits
+FILMBOX+ Comedy
+FILMBOX+ One
+FILMBOX+ Action
+FILMBOX+ Festival
+FILMBOX+ Emotion
+TVP HD
+TVP Seriale
+TVP Kryminaly
+TVP Rozrywka
+TVP Kultura
+TVP Kultura 2
+ROMANCE TV
+Epic Drama
+Romance HD
+Rakuten TV
+Red Carpet TV International
+Glina TV
+RakutenTV
+BjgTjme
+Red Carpet
+Top Movies Polska
+ViDoc TV
+Short TV
+Polsat Play
+# ============================
+# DOKUMENT
+# ============================
+BBC Earth
+Planete+
+ID
+TVP Dokument
+TVP Nauka
+Discovery Science
+CI Polsat
+Polsat Doku
+Canal+ Dokument
+Canal+ 360
+Polsat Viasat History
+POLSAT Viasat Explore
+Polsat Viasat Nature
+Viasat True Crime
+Viasat Explore Classic
+Discovery Historia
+HISTORY
+History 2
+National Geographic Channel
+National Geographic Wild
+Nat Geo People
+Animal Planet
+Discovery Channel
+Adventure
+Fokus TV
+Xtreme TV
+WATER PLANET
+Active Family
+TVP Historia
+TVP Historia 2
+Moconomy
+# ============================
+# Lifestyle
+# ============================
+DTX
+TVN Turbo
+BBC Brit
+Wedotv Auta
+Discovery Life
+Polsat Café
+TVN Style
+Travel Channel
+TLC
+Canal+ Domo
+HGTV
+Alfa TVP
+HOME TV
+Food Network
+TVP Kobieta
+Canal+ Kuchnia
+BBC Lifestyle
+# ====================
+#  muzyczne
+# ====================
+Vantage Music
+Vantage Dance
+Vantage Classic
+Trace Urban
+3688.id.com
+3720.id.com
+Polsat Music
+4FUN TV
+4FUN DANCE
+Eska TV
+Eska TV Extra
+MixTape HD
+MUSIC BOX
+POWER TV
+Stars TV
+Vox Music TV
+Polo TV
+GOLD TV
+# ============================
+# NEWS
+# ============================
+Polsat News
+Polsat News Polityka
+POLSAT NEWS 2
+Wydarzenia 24
+Republika
+wPolsce 24
+TVN 24
+TVN 24 BiS
+Newsmax Polska
+TVP Info
+News24
+Euronews Polska
+Biznes 24
+Telewizja Biznesowa
+France 24 UK
+# ==================================
+#  sport e-sport
+# ==================================
+Polsat Games
+Ginx TV
+Polsat Sport 1
+Polsat Sport 2
+Polsat Sport 3
+Polsat Sport Extra 1
+Polsat Sport Extra 2
+Polsat Sport Extra 3
+Polsat Sport Extra 4
+Polsat Sport Premium 1
+Polsat Sport Premium 2
+Polsat Sport Fight
+FIGHTKLUB
+FightBox
+Extreme Sports Channel
+TVP Sport
+Canal+ Sport
+Canal+ Sport 2
+Canal+ Sport 3
+Canal+ Sport 4
+Canal+ Sport 5
+Eurosport
+Eurosport 2
+Eurosport 3
+Eurosport 4
+Eleven Sports 1
+Eleven Sports 2
+Eleven Sports 3
+Eleven Sports 4
+Sportowa.TV
+Sportklub
+Motowizja
+Golf Channel
+Canal+ Extra 1
+Canal+ Extra 2
+Canal+ Extra 3
+Canal+ Extra 4
+Canal+ Extra 5
+Canal+ Extra 6
+Canal+ Extra 7
