@@ -1,7 +1,7 @@
 <?php
 /**
  * Dynamic Image Resizer - Obsługa PNG Transparent & High Quality
- * WAŻNE !!! UTWÓRZ I NADAJ UPRAWNIENIA FOLDEROWI cache
+ * WAŻNE !!! UTWÓRZ I NADAJ UPRAWNIENIA SERWERA WWW FOLDEROWI cache
  */
 
 //$allowed_domains = ['ptv-prod.wpcdn.pl', 'wpcdn.pl', 'epg.ovh', 'static.epg.ovh'];
